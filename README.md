@@ -1,3 +1,5 @@
+![logo](https://i.postimg.cc/Kcg5Qj4k/Banner.png)
+
 <h1 align="center">Hi 👋, I'm Sameer Ahmed Shaikh</h1>
 <h3 align="center">A Passionate Full-Stack Web Developer!</h3>
 
