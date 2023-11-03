@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaikhsameer18&label=Profile%20views&color=0e75b6&style=flat" alt="shaikhsameer18" /> </p>
 
-- 🌱 I’m currently learning: **ReactJS, TailwindCSS**
+- 🌱 I’m currently learning: **NextJS, TailwindCSS**
 
 - 👨‍💻 All my links: [https://linktr.ee/shaikhsameer18](https://linktr.ee/shaikhsameer18)
 
