@@ -16,8 +16,9 @@
 
 - 📫 Reach Me at: **sameer.shaikh0425@gmail.com**
 
-- ⚡ Hobbies **Reading, Web Designing, Coding, Swimming, Gaming and Playing Football**
+- ⚡ Hobbies **Reading, Coding and Web Designing**
 
+<br>
 <br>
 
 <div align="center">
@@ -47,8 +48,6 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
 
-<br>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shaikhsam_08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shaikhsam_08" height="30" width="40" /></a>
@@ -62,8 +61,6 @@
 <br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
-
-<br>
 <h3 align="left">Languages and Tools:</h3>
 
 - Backend
@@ -105,7 +102,6 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
 
-<br>
 
 
 
