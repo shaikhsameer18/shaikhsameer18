@@ -5,22 +5,6 @@
 <h3 align="center">A Passionate Full-Stack Web Developer!</h3>
 
 <br>
-<div>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaikhsameer18&label=Profile%20views&color=0e75b6&style=flat" alt="shaikhsameer18" /> </p>
-
-- 🌱 I’m currently learning: **Machine Learning**
-
-- 👨‍💻 All my links: [https://linktr.ee/shaikhsameer18](https://linktr.ee/shaikhsameer18)
-
-- 📫 Reach Me at: **sameer.shaikh0425@gmail.com**
-
-- ⚡ Hobbies **Reading, Coding and Web Designing**
-
-</div>
-
-<br>
 
 <div align="center">
 <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50" />
@@ -46,6 +30,28 @@
 </div>
 
 <br>
+
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
+
+<div>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaikhsameer18&label=Profile%20views&color=0e75b6&style=flat" alt="shaikhsameer18" /> </p>
+
+- 🌱 I’m currently learning: **Machine Learning**
+
+- 👨‍💻 All my links: [https://linktr.ee/shaikhsameer18](https://linktr.ee/shaikhsameer18)
+
+- 📫 Reach Me at: **sameer.shaikh0425@gmail.com**
+
+- ⚡ Hobbies **Reading, Coding and Web Designing**
+
+</div>
+
+<br>
+
+
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
 
