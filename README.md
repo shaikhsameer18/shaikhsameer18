@@ -33,9 +33,14 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
 
 <div>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<div align="center">
+  <img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaikhsameer18&label=Profile%20views&color=0e75b6&style=flat" alt="shaikhsameer18" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=shaikhsameer18&label=Profile%20views&color=28a745&style=flat" alt="shaikhsameer18" />
+</p>
+
 
 - 🌱 I’m currently learning: **Machine Learning**
 
@@ -50,78 +55,81 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
 
-<br>
-
-<h3 align="left">Connect with me:</h3>
+### Connect with me:
 <p align="left">
-<a href="https://twitter.com/shaikhsam_08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shaikhsam_08" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sameerahmed08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sameerahmed08" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/shaikhsameer18" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shaikhsameer18" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/shaikhsameer18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shaikhsameer18" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shaikhsameer15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shaikhsameer18" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@shaikhsameer18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@shaikhsameer18" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/shaikhsameer18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shaikhsameer18" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/sameerahmed08" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sameerahmed08" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/shaikhsameer18" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shaikhsameer18" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/shaikhsameer15" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shaikhsameer18" height="30" width="40" />
+  </a>
 </p>
-<br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
-<h3 align="left">Languages and Tools:</h3>
 
-- Backend
+
+### Languages and Tools:
+
+- **Programming Languages**  
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,nodejs,express,ts,js,django,flask,php,npm" />
+    <img src="https://skillicons.dev/icons?i=java,nodejs,ts,js,python,c" />
   </a>
 </p>
 
-- Frontend
+- **Backend**  
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,materialui,jquery,html,css" />
+    <img src="https://skillicons.dev/icons?i=express,django,flask,php,npm" />
   </a>
 </p>
 
-- Database
+- **Frontend**  
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,materialui,jquery,html,css,sass" />
   </a>
 </p>
 
-- Cloud Servers
+- **Database**  
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,firebase,azure,gcp" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" />
   </a>
 </p>
 
-- Tools
+- **Cloud & Servers**  
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,firebase,azure,gcp,vercel,netlify" />
+  </a>
+</p>
+
+- **DevOps & Tools**  
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,jenkins,kubernetes,terraform,linux,redhat" />
   </a>
 </p>
 
-<br/>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
 
 
-
-
 <h3 align="left">GitHub Stats:</h3>
+
 <div align="center">
- 
-![Sameer's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaikhsameer18&theme=midnight-purple&show_icons=true&show=reviews,prs_merged)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=shaikhsameer18&theme=midnight-purple)](https://git.io/streak-stats)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaikhsameer18&theme=midnight-purple&show_icons=true&locale=en&layout=compact)
-
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaikhsameer18&theme=dark&show_icons=true&hide_border=true&count_private=true)
+<br><br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shaikhsameer18&theme=dark&show_icons=true&hide_border=true&layout=compact)
+<br><br>
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=shaikhsameer18&theme=dark&hide_border=true)
 
 </div>
-
-<br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
 
