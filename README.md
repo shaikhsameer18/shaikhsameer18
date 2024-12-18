@@ -1,36 +1,34 @@
-![logo](https://i.postimg.cc/Kcg5Qj4k/Banner.png)
+![logo](https://i.postimg.cc/vZkjs5qv/BLack-Minimalist-Corporate-Staff-Identity-Linked-In-Banner.png)
 
 <h1 align="center">Hi 👋, I'm Sameer Ahmed Shaikh</h1>
-
-<h3 align="center">A Passionate Full-Stack Web Developer!</h3>
-
-<br>
-
-<div align="center">
-<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50" />
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" height="50" />
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50" />
-<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50" />
-<img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="50" height="50" />
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" />
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" />
-
-</div>
+<h3 align="center">Software Engineer | Web Developer</h3>
 
 <br>
 
 <div align="center">
-<img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="50" height="50" />
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" />
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50" />
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
-<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier" width="50" height="50" />
+  <!-- Programming Languages -->
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="74" height="74" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="74" height="74" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="74" height="74" />
+
+  <!-- Frontend Technologies -->
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="74" height="74" />
+  <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="74" height="74" />
+
+  <!-- Backend/API -->
+  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="74" height="74" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="74" height="74" />
+
+  <!-- DevOps/Cloud -->
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="74" height="74" />
+  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="74" height="74" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="74" height="74" />
+
+  <!-- Database -->
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="74" height="74" />
 </div>
 
 <br>
-
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
 
@@ -41,19 +39,18 @@
 
 - 🌱 I’m currently learning: **Machine Learning**
 
+- 📚 Hobbies: **Reading, Coding, and Web Designing**
+
+- 📫 Reach me at: **[sameer.shaikh0425@gmail.com](mailto:sameer.shaikh0425@gmail.com)**
+
 - 👨‍💻 All my links: [https://linktr.ee/shaikhsameer18](https://linktr.ee/shaikhsameer18)
-
-- 📫 Reach Me at: **sameer.shaikh0425@gmail.com**
-
-- ⚡ Hobbies **Reading, Coding and Web Designing**
 
 </div>
 
-<br>
-
-
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
+
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
