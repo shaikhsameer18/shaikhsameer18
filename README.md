@@ -1,4 +1,4 @@
-![logo](https://i.postimg.cc/vZkjs5qv/BLack-Minimalist-Corporate-Staff-Identity-Linked-In-Banner.png)
+ ![logo](https://i.postimg.cc/vZkjs5qv/BLack-Minimalist-Corporate-Staff-Identity-Linked-In-Banner.png)
 
 <h1 align="center">Hi 👋, I'm Sameer Ahmed Shaikh</h1>
 <h3 align="center">Software Engineer | Web Developer</h3>
@@ -119,19 +119,15 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
 
 
-<h3 align="left">GitHub Stats:</h3>
+### GitHub Stats:
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaikhsameer18&theme=dark&show_icons=true&hide_border=true&count_private=true)
-<br><br>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shaikhsameer18&theme=dark&show_icons=true&hide_border=true&layout=compact)
-<br><br>
-
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=shaikhsameer18&theme=dark&hide_border=true)
-
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaikhsameer18&theme=dark&show_icons=true&hide_border=true&count_private=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaikhsameer18&theme=dark&show_icons=true&hide_border=true&layout=compact)
 </div>
+
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
 
