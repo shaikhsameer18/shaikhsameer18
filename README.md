@@ -122,10 +122,13 @@
 ### GitHub Stats:
 
 <div align="center">
+
+![shaikhsameer18's Stats](https://github-readme-stats.vercel.app/api?username=shaikhsameer18&theme=onedark&show_icons=true&hide_border=false&count_private=true)
+
+![shaikhsameer18's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shaikhsameer18&theme=onedark&hide_border=false)
+
+![shaikhsameer18's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaikhsameer18&theme=onedark&show_icons=true&hide_border=false&layout=compact)
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaikhsameer18&theme=dark&show_icons=true&hide_border=true&count_private=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaikhsameer18&theme=dark&show_icons=true&hide_border=true&layout=compact)
 </div>
 
 
