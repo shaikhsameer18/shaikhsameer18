@@ -1,4 +1,4 @@
-![logo](https://i.postimg.cc/vZkjs5qv/BLack-Minimalist-Corporate-Staff-Identity-Linked-In-Banner.png)
+
 
 <h1 align="center">Hi 👋, I'm Sameer Ahmed Shaikh</h1>
 <h3 align="center">Software Engineer | Web Developer | ML Enthusiast</h3>
