@@ -58,74 +58,68 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
 
+### 🛠️ Tech Stack
 
-### Languages and Tools:
+**Languages & Runtime**
 
-- **Programming Languages**  
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,nodejs,ts,js,python,c,cpp" />
-  </a>
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,nodejs,cpp,c" />
 </p>
 
-- **Backend**  
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=express,django,flask,php,npm,graphql" />
-  </a>
+**Frontend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,materialui,html,css,sass,jquery" />
 </p>
 
-- **Frontend**  
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,materialui,jquery,html,css,sass" />
-  </a>
+**Backend / APIs**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=express,django,flask,graphql,php,npm" />
 </p>
 
-- **Database**  
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
-  </a>
+**Databases**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
 </p>
 
-- **Cloud & Servers**  
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,firebase,vercel,netlify,cloudflare" />
-  </a>
+**DevOps & Cloud**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,firebase,vercel,netlify,cloudflare,docker,kubernetes,jenkins,terraform,linux,redhat" />
 </p>
 
-- **DevOps & Tools**  
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,jenkins,kubernetes,terraform,linux,redhat" />
-  </a>
+**Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
 
+### 📈 GitHub Analytics
 
-### GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shaikhsameer18&theme=onedark&show_icons=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikhsameer18&layout=compact&theme=onedark" height="170"/>
+</p>
 
-<div align="center">
-
-| Stats | Top Languages |
-|-------|---------------|
-| ![shaikhsameer18's Stats](https://github-readme-stats.vercel.app/api?username=shaikhsameer18&theme=onedark&show_icons=true&hide_border=false&count_private=true) | ![shaikhsameer18's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaikhsameer18&theme=onedark&show_icons=true&hide_border=false&layout=compact) |
-
-</div>
-
-<div align="center">
-
-| Streak |
-|--------|
-| [![GitHub Streak](https://streak-stats.demolab.com?user=shaikhsameer18&theme=onedark&hide_total_contributions=true)](https://git.io/streak-stats) |
-
-</div>
-
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shaikhsameer18&theme=onedark" height="170" />
+</p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
+
+### 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaikhsameer18&theme=github-compact" />
+</p>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
+
+
+
 
