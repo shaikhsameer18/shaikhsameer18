@@ -47,9 +47,11 @@ const sameer = {
 
 **Security Tools**
 <p align="left">
+  <img src="https://img.icons8.com/color/48/nmap.png" height="48" title="Nmap"/>
   <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="48" title="Wireshark"/>
   <img src="https://cdn.simpleicons.org/burpsuite/FF6633" height="48" title="Burp Suite"/>
   <img src="https://cdn.simpleicons.org/owasp/000000" height="48" title="OWASP" style="background:white;border-radius:6px;padding:2px"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/sophos.svg" height="48" title="Sophos Firewall" style="background:white;border-radius:6px;padding:2px"/>
   <img src="https://cdn.simpleicons.org/openvpn/EA7E20" height="48" title="VPN / IPsec"/>
 </p>
 
