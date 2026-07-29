@@ -1,63 +1,89 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Sameer%20Ahmed&textBg=false&fontAlign=50&fontAlignY=30&desc=Software%20Developer%20|%20Full%20Stack%20Developer&descAlignY=50&fontSize=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Sameer%20Ahmed%20Shaikh&textBg=false&fontAlign=50&fontAlignY=30&desc=Cybersecurity%20Analyst%20|%20AppSec%20%7C%20GRC%20%7C%20SOC&descAlignY=50&fontSize=42" width="100%"/>
 
   <img src="https://komarev.com/ghpvc/?username=shaikhsameer18&label=Profile%20Views&color=667eea&style=flat-square" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/shaikhsameer18?label=Followers&style=flat-square&color=764ba2" alt="followers" />
+  <img src="https://img.shields.io/badge/Location-Mumbai%2C%20India-blue?style=flat-square" alt="location" />
 </div>
 
-## 🚀 About Me
+## 🛡️ About Me
 
 ```javascript
 const sameer = {
+    role: "Cybersecurity Analyst @ Zoffec Infotech Pvt. Ltd.",
     location: "Mumbai, India 🇮🇳",
-    education: "Information Technology",
-    role: "Software Engineer",
-    
-    currentFocus: [
-        "Building scalable web applications",
-        "Machine Learning & AI",
-    ],
-    
-    learning: ["Kali Linux"],
-    
-    interests: ["Problem Solving", "Gaming", "Building Side Projects"],
+    education: "B.E. Information Technology — CGPA 9.06/10",
 
+    domains: [
+        "Vulnerability Assessment & Security Config Audits",
+        "SOC Monitoring & Alert Triage (SIEM)",
+        "Firewall / Network Security (Sophos, IPsec VPN, NAT)",
+        "Endpoint Security & Agent Deployment",
+        "GRC — Internal Audits, Gap Assessments, SEBI CSCRF",
+        "Application & API Security (OWASP Top 10)",
+    ],
+
+    currentlyBuilding: "Depth in Web App Pentesting & Burp Suite tradecraft",
+
+    funFact: "One job title, five hats — AppSec, SOC, Firewall, GRC, Analyst",
 };
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## 💼 Experience
 
+**Cybersecurity Analyst** — Zoffec Infotech Pvt. Ltd., Mumbai *(Oct 2025 – Present)*
 
-## 💻 Tech Stack
+- Run vulnerability assessments (Nmap) and security configuration audits against baseline hardening standards across client environments, tracking findings through to remediation and closure.
+- Monitor SIEM alerts and event logs (BluSapphire) for suspicious activity; deploy and validate SOC monitoring agents across client endpoints for continuous coverage.
+- Administer Sophos firewall policies, NAT rules, and IPsec VPN connectivity; troubleshoot firewall, VPN, and endpoint connectivity incidents.
+- Deploy and manage endpoint protection agents, resolving protection gaps and connectivity issues.
+- Support GRC activities — SEBI CSCRF compliance, gap assessments, audit evidence collection, control validation, and CCMP/BCP/DR documentation (RTO/RPO inputs).
+- Document findings, risk severity, and remediation recommendations in structured, client-facing reports.
 
-### **Languages**
+## 🏆 Certifications
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c,php&theme=dark" />
+  <img src="https://img.shields.io/badge/Sophos%20Firewall%20Certified%20Engineer-2026-1D428A?style=for-the-badge&logo=sophos&logoColor=white" alt="Sophos Firewall Certified Engineer"/>
 </p>
 
-### **Frontend Development**
+## 🧰 Tech Stack
+
+**Security Testing & Vulnerability Assessment**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,html,css,tailwind&theme=dark" />
+  <img src="https://img.shields.io/badge/Nmap-3776AB?style=flat-square&logo=nmap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OWASP%20Top%2010-000000?style=flat-square&logo=owasp&logoColor=white"/>
 </p>
 
-### **Backend Development**
+**Security Operations & Network Security**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,graphql,fastapi&theme=dark" />
+  <img src="https://img.shields.io/badge/SIEM-BluSapphire-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Sophos%20Firewall-00563F?style=flat-square&logo=sophos&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IPsec%20VPN-4A154B?style=flat-square"/>
+  <img src="https://img.shields.io/badge/NAT%20%2F%20Firewall%20Policy-262626?style=flat-square"/>
 </p>
 
-### **Databases**
+**Cloud & Endpoint**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,linux,windows&theme=dark" />
 </p>
 
-### **DevOps & Cloud**
+**Languages & Scripting**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,vercel,cloudflare,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,nodejs&theme=dark" />
 </p>
 
-### **Tools & Technologies**
+**Tools & Platforms**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,kali,vscode,postman,npm&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,kali&theme=dark" />
+</p>
+
+**GRC & Reporting**
+<p align="left">
+  <img src="https://img.shields.io/badge/SEBI%20CSCRF-004B87?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CCMP%20%2F%20BCP%20%2F%20DR-800000?style=flat-square"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -72,17 +98,15 @@ const sameer = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaikhsameer18&theme=algolia&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
 ## 📈 Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaikhsameer18&theme=react-dark&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## 🎓 Education
 
+**M.H. Saboo Siddik College of Engineering, Mumbai** — Bachelor of Engineering, Information Technology (2021 – 2025) — CGPA: **9.06/10**
 
 ## 🌐 Connect With Me
 
@@ -110,4 +134,3 @@ const sameer = {
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
 </div>
-
