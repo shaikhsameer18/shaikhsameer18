@@ -29,39 +29,28 @@ const sameer = {
 };
 ```
 
-## 💼 Experience
-
-**Cybersecurity Analyst** — Zoffec Infotech Pvt. Ltd., Mumbai *(Oct 2025 – Present)*
-
-- Run vulnerability assessments (Nmap) and security configuration audits against baseline hardening standards across client environments, tracking findings through to remediation and closure.
-- Monitor SIEM alerts and event logs (BluSapphire) for suspicious activity; deploy and validate SOC monitoring agents across client endpoints for continuous coverage.
-- Administer Sophos firewall policies, NAT rules, and IPsec VPN connectivity; troubleshoot firewall, VPN, and endpoint connectivity incidents.
-- Deploy and manage endpoint protection agents, resolving protection gaps and connectivity issues.
-- Support GRC activities — SEBI CSCRF compliance, gap assessments, audit evidence collection, control validation, and CCMP/BCP/DR documentation (RTO/RPO inputs).
-- Document findings, risk severity, and remediation recommendations in structured, client-facing reports.
-
-## 🏆 Certifications
+## 🏆 Certifications & Learning Platforms
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Sophos%20Firewall%20Certified%20Engineer-2026-1D428A?style=for-the-badge&logo=sophos&logoColor=white" alt="Sophos Firewall Certified Engineer"/>
+  <a href="https://www.credly.com/users/sameer-ahmed-shaikh.d94ed21b">
+    <img src="https://img.shields.io/badge/Sophos%20Firewall%20Certified%20Engineer-1D428A?style=for-the-badge&logo=sophos&logoColor=white" alt="Sophos Firewall Certified Engineer"/>
+  </a>
+  <a href="https://www.credly.com/users/sameer-ahmed-shaikh.d94ed21b">
+    <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Profile"/>
+  </a>
+  <a href="https://tryhackme.com/p/sameer.shaikh0425">
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Profile"/>
+  </a>
 </p>
 
 ## 🧰 Tech Stack
 
-**Security Testing & Vulnerability Assessment**
+**Security Tools**
 <p align="left">
-  <img src="https://img.shields.io/badge/Nmap-3776AB?style=flat-square&logo=nmap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OWASP%20Top%2010-000000?style=flat-square&logo=owasp&logoColor=white"/>
-</p>
-
-**Security Operations & Network Security**
-<p align="left">
-  <img src="https://img.shields.io/badge/SIEM-BluSapphire-orange?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Sophos%20Firewall-00563F?style=flat-square&logo=sophos&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IPsec%20VPN-4A154B?style=flat-square"/>
-  <img src="https://img.shields.io/badge/NAT%20%2F%20Firewall%20Policy-262626?style=flat-square"/>
+  <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="48" title="Wireshark"/>
+  <img src="https://cdn.simpleicons.org/burpsuite/FF6633" height="48" title="Burp Suite"/>
+  <img src="https://cdn.simpleicons.org/owasp/000000" height="48" title="OWASP" style="background:white;border-radius:6px;padding:2px"/>
+  <img src="https://cdn.simpleicons.org/openvpn/EA7E20" height="48" title="VPN / IPsec"/>
 </p>
 
 **Cloud & Endpoint**
@@ -79,14 +68,32 @@ const sameer = {
   <img src="https://skillicons.dev/icons?i=git,github,docker,postman,kali&theme=dark" />
 </p>
 
-**GRC & Reporting**
-<p align="left">
-  <img src="https://img.shields.io/badge/SEBI%20CSCRF-004B87?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CCMP%20%2F%20BCP%20%2F%20DR-800000?style=flat-square"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🚧 Featured Projects
+
+- **NMS GRC Platform** — Governance, Risk & Compliance management platform for tracking controls, audit evidence, and compliance status.
+- **CTEM Platform** — Continuous Threat Exposure Management platform for exposure discovery, prioritization, and remediation tracking.
+
+<p align="center">
+  <a href="https://github.com/shaikhsameer18/ImposterGame">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaikhsameer18&repo=ImposterGame&theme=algolia&hide_border=true" />
+  </a>
+  <a href="https://github.com/shaikhsameer18/NextLife">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaikhsameer18&repo=NextLife&theme=algolia&hide_border=true" />
+  </a>
+  <a href="https://github.com/shaikhsameer18/DollarsPortfolio2.0">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaikhsameer18&repo=DollarsPortfolio2.0&theme=algolia&hide_border=true" />
+  </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## ✍️ Blogs & Writeups
+
+<p align="left">
+  <a href="https://geekytechh.in/insights/website-security-is-not-optional">
+    <img src="https://img.shields.io/badge/Website%20Security%20Isn't%20Optional-geekytechh.in-1D428A?style=for-the-badge&logo=readme&logoColor=white" alt="Website Security Isn't Optional"/>
+  </a>
+</p>
 
 ## 📊 GitHub Statistics
 
