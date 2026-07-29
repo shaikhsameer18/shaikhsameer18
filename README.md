@@ -76,18 +76,9 @@ const sameer = {
 
 - **NMS GRC Platform** — Governance, Risk & Compliance management platform for tracking controls, audit evidence, and compliance status.
 - **CTEM Platform** — Continuous Threat Exposure Management platform for exposure discovery, prioritization, and remediation tracking.
-
-<p align="center">
-  <a href="https://github.com/shaikhsameer18/ImposterGame">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaikhsameer18&repo=ImposterGame&theme=algolia&hide_border=true" />
-  </a>
-  <a href="https://github.com/shaikhsameer18/NextLife">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaikhsameer18&repo=NextLife&theme=algolia&hide_border=true" />
-  </a>
-  <a href="https://github.com/shaikhsameer18/DollarsPortfolio2.0">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaikhsameer18&repo=DollarsPortfolio2.0&theme=algolia&hide_border=true" />
-  </a>
-</p>
+- **[ImposterGame](https://github.com/shaikhsameer18/ImposterGame)** — Multiplayer web-based social deduction game.
+- **[NextLife](https://github.com/shaikhsameer18/NextLife)** — Personal life-management web app.
+- **[DollarsPortfolio2.0](https://github.com/shaikhsameer18/DollarsPortfolio2.0)** — Personal portfolio site.
 
 ## ✍️ Blogs & Writeups
 
