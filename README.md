@@ -33,7 +33,7 @@ const sameer = {
 
 <p align="left">
   <a href="https://www.credly.com/users/sameer-ahmed-shaikh.d94ed21b">
-    <img src="https://img.shields.io/badge/Sophos%20Firewall%20Certified%20Engineer-1D428A?style=for-the-badge&logo=sophos&logoColor=white" alt="Sophos Firewall Certified Engineer"/>
+    <img src="https://img.shields.io/badge/Sophos%20Firewall%20Certified%20Engineer-1D428A?style=for-the-badge" alt="Sophos Firewall Certified Engineer"/>
   </a>
   <a href="https://www.credly.com/users/sameer-ahmed-shaikh.d94ed21b">
     <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Profile"/>
