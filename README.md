@@ -12,20 +12,6 @@
 const sameer = {
     role: "Cybersecurity Analyst @ Zoffec Infotech Pvt. Ltd.",
     location: "Mumbai, India 🇮🇳",
-    education: "B.E. Information Technology — CGPA 9.06/10",
-
-    domains: [
-        "Vulnerability Assessment & Security Config Audits",
-        "SOC Monitoring & Alert Triage (SIEM)",
-        "Firewall / Network Security (Sophos, IPsec VPN, NAT)",
-        "Endpoint Security & Agent Deployment",
-        "GRC — Internal Audits, Gap Assessments, SEBI CSCRF",
-        "Application & API Security (OWASP Top 10)",
-    ],
-
-    currentlyBuilding: "Depth in Web App Pentesting & Burp Suite tradecraft",
-
-    funFact: "One job title, five hats — AppSec, SOC, Firewall, GRC, Analyst",
 };
 ```
 
