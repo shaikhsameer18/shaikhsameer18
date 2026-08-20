@@ -44,7 +44,7 @@ const sameer = {
   <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="48" title="Wireshark"/>
   <img src="https://cdn.simpleicons.org/burpsuite/FF6633" height="48" title="Burp Suite"/>
   <img src="https://cdn.simpleicons.org/owasp/000000" height="48" title="OWASP" style="background:white;border-radius:6px;padding:2px"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/sophos.svg" height="48" title="Sophos Firewall" style="background:white;border-radius:6px;padding:2px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Sophos_logo2.svg" height="48" title="Sophos Firewall" style="background:white;border-radius:6px;padding:2px 8px"/>
   <img src="https://cdn.simpleicons.org/openvpn/EA7E20" height="48" title="VPN / IPsec"/>
 </p>
 
@@ -79,7 +79,8 @@ const sameer = {
 
 ## 🚧 Featured Projects
 
-- **NMS GRC Platform** *(private — built at Zoffec Infotech)* — Multi-client SEBI CSCRF compliance portal: tracks 128 regulatory controls, automates Risk Assessment & Risk Treatment Plan (RARTP) workflows, and runs third-party vendor risk assessments (TPRA).
+- **NMS (Network Monitoring System)** *(private — built at Zoffec Infotech)* — Full network monitoring platform: uptime/downtime tracking, device and configuration checks, and Sophos Firewall-integrated alerting.
+- **GRC Platform** *(private — built at Zoffec Infotech)* — Multi-client SEBI CSCRF compliance portal: tracks 128 regulatory controls, automates Risk Assessment & Risk Treatment Plan (RARTP) workflows, and runs third-party vendor risk assessments (TPRA).
 - **CTEM Platform** *(private — built at Zoffec Infotech)* — Continuous Threat Exposure Management platform for exposure discovery, prioritization, and remediation tracking.
 - **[ImposterGame](https://github.com/shaikhsameer18/ImposterGame)** — Multiplayer web-based social deduction game.
 - **[CodeCollab](https://github.com/shaikhsameer18/CodeCollab)** — Real-time collaborative coding platform with a live editor, whiteboarding, chat, and GitHub integration.
@@ -98,6 +99,18 @@ const sameer = {
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaikhsameer18&theme=react-dark&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shaikhsameer18/shaikhsameer18/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shaikhsameer18/shaikhsameer18/output/github-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/shaikhsameer18/shaikhsameer18/output/github-snake.svg" width="100%" />
+  </picture>
+</div>
+
+## 📊 Coding Stats
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/shaikhsameer15?theme=dark&font=baloo2&extension=activity" alt="LeetCode Stats" />
 </div>
 
 ## 🎓 Education
