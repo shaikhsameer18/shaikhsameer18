@@ -4,13 +4,20 @@
   <img src="https://komarev.com/ghpvc/?username=shaikhsameer18&label=Profile%20Views&color=667eea&style=flat-square" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/shaikhsameer18?label=Followers&style=flat-square&color=764ba2" alt="followers" />
   <img src="https://img.shields.io/badge/Location-Mumbai%2C%20India-blue?style=flat-square" alt="location" />
+
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=667eea&center=true&vCenter=true&width=600&lines=Cybersecurity+Analyst+%40+Zoffec+Infotech;AppSec+%7C+GRC+(SEBI+CSCRF)+%7C+SOC;Full-Stack+Web+Developer" alt="Typing SVG"/>
 </div>
 
 ## 🛡️ About Me
 
+Cybersecurity Analyst focused on Application Security, GRC, and SOC operations — currently specializing in **SEBI's Cybersecurity and Cyber Resilience Framework (CSCRF)**, India's NIST CSF 2.0-aligned regulatory framework for SEBI-regulated entities. Also a full-stack web developer who ships the platforms this work runs on.
+
 ```javascript
 const sameer = {
     role: "Cybersecurity Analyst @ Zoffec Infotech Pvt. Ltd.",
+    focus: ["Application Security", "GRC — SEBI CSCRF", "SOC Operations"],
+    alsoBuilds: "Full-stack web apps (Next.js / React / TypeScript)",
     location: "Mumbai, India 🇮🇳",
 };
 ```
@@ -41,14 +48,26 @@ const sameer = {
   <img src="https://cdn.simpleicons.org/openvpn/EA7E20" height="48" title="VPN / IPsec"/>
 </p>
 
-**Cloud & Endpoint**
+**GRC & Compliance**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,linux,windows&theme=dark" />
+  <img src="https://img.shields.io/badge/SEBI-CSCRF-1D428A?style=for-the-badge" alt="SEBI CSCRF"/>
+  <img src="https://img.shields.io/badge/NIST-CSF%202.0%20Aligned-0057B8?style=for-the-badge" alt="NIST CSF 2.0 Aligned"/>
+  <img src="https://img.shields.io/badge/Risk-RARTP%20%2F%20TPRA-8A2BE2?style=for-the-badge" alt="RARTP / TPRA"/>
+</p>
+
+**Web Development**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,html,css&theme=dark" />
 </p>
 
 **Languages & Scripting**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,nodejs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java&theme=dark" />
+</p>
+
+**Cloud & Endpoint**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,linux,windows&theme=dark" />
 </p>
 
 **Tools & Platforms**
@@ -60,9 +79,10 @@ const sameer = {
 
 ## 🚧 Featured Projects
 
-- **NMS GRC Platform** — Governance, Risk & Compliance management platform for tracking controls, audit evidence, and compliance status.
-- **CTEM Platform** — Continuous Threat Exposure Management platform for exposure discovery, prioritization, and remediation tracking.
+- **NMS GRC Platform** *(private — built at Zoffec Infotech)* — Multi-client SEBI CSCRF compliance portal: tracks 128 regulatory controls, automates Risk Assessment & Risk Treatment Plan (RARTP) workflows, and runs third-party vendor risk assessments (TPRA).
+- **CTEM Platform** *(private — built at Zoffec Infotech)* — Continuous Threat Exposure Management platform for exposure discovery, prioritization, and remediation tracking.
 - **[ImposterGame](https://github.com/shaikhsameer18/ImposterGame)** — Multiplayer web-based social deduction game.
+- **[CodeCollab](https://github.com/shaikhsameer18/CodeCollab)** — Real-time collaborative coding platform with a live editor, whiteboarding, chat, and GitHub integration.
 - **[NextLife](https://github.com/shaikhsameer18/NextLife)** — Personal life-management web app.
 - **[DollarsPortfolio2.0](https://github.com/shaikhsameer18/DollarsPortfolio2.0)** — Personal portfolio site.
 
@@ -73,12 +93,6 @@ const sameer = {
     <img src="https://img.shields.io/badge/Website%20Security%20Isn't%20Optional-geekytechh.in-1D428A?style=for-the-badge&logo=readme&logoColor=white" alt="Website Security Isn't Optional"/>
   </a>
 </p>
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaikhsameer18&theme=algolia&hide_border=true" alt="GitHub Streak" />
-</div>
 
 ## 📈 Contribution Activity
 
