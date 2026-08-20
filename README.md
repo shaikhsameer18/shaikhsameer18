@@ -22,6 +22,8 @@ const sameer = {
 };
 ```
 
+---
+
 ## 🏆 Certifications & Learning Platforms
 
 <p align="left">
@@ -35,6 +37,8 @@ const sameer = {
     <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Profile"/>
   </a>
 </p>
+
+---
 
 ## 🧰 Tech Stack
 
@@ -75,7 +79,11 @@ const sameer = {
   <img src="https://skillicons.dev/icons?i=git,github,docker,postman,kali&theme=dark" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
+
+---
 
 ## 🚧 Featured Projects
 
@@ -87,6 +95,8 @@ const sameer = {
 - **[NextLife](https://github.com/shaikhsameer18/NextLife)** — Personal life-management web app.
 - **[DollarsPortfolio2.0](https://github.com/shaikhsameer18/DollarsPortfolio2.0)** — Personal portfolio site.
 
+---
+
 ## ✍️ Blogs & Writeups
 
 <p align="left">
@@ -94,6 +104,8 @@ const sameer = {
     <img src="https://img.shields.io/badge/Website%20Security%20Isn't%20Optional-geekytechh.in-1D428A?style=for-the-badge&logo=readme&logoColor=white" alt="Website Security Isn't Optional"/>
   </a>
 </p>
+
+---
 
 ## 📈 Contribution Activity
 
@@ -107,15 +119,13 @@ const sameer = {
   </picture>
 </div>
 
-## 📊 Coding Stats
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/shaikhsameer15?theme=dark&font=baloo2&extension=activity" alt="LeetCode Stats" />
-</div>
+---
 
 ## 🎓 Education
 
 **M.H. Saboo Siddik College of Engineering, Mumbai** — Bachelor of Engineering, Information Technology (2021 – 2025) — CGPA: **9.06/10**
+
+---
 
 ## 🌐 Connect With Me
 
